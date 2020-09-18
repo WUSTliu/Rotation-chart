@@ -1,2 +1,2 @@
 # Rotation-chart-
-纯js实现的轮播图
+原生js实现的轮播图
